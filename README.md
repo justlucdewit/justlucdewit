@@ -16,7 +16,7 @@
 ### coding experience (i only started recording my coding times since 11-8-2020):
 - Js: 84h
 - VueJS: 84h
-- C#: 60h
+- C#: 62h
 - C: 58h
 - Haskell: 2h
 
