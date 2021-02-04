@@ -9,7 +9,7 @@
 
 ### Personal life goals:
 - [x] Finally upgrade to linux
-- [ ] Get a programming job
+- [x] Get a programming job
 - [ ] Teach as many people how fun programming is
 - [ ] Create my own programming language that is actually decent
 
