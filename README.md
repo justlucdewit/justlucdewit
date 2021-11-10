@@ -1,4 +1,4 @@
-### I am Luc de Wit (or my pseudonym: Luke_ )
+### I am (or my pseudonym: Luke_ )
 
 - I am a 2nd year software dev student in the Netherlands
 - I like coding in low level compiled languages
