@@ -28,4 +28,4 @@
 
 ### Other
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=justlucdewit&show_icons=true&theme=dark&line_height=20&custom_title=Github+Stats&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlucdewit&layout=compact&langs_count=6&theme=dark&card_width=499&hide=cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlucdewit&layout=compact&langs_count=6&theme=dark&card_width=499&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
